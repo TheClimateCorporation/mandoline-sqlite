@@ -4,4 +4,4 @@ SQLite backend for Mandoline.
 
 ## Usage
 
-        [io.mandoline/mandoline-sqlite "0.1.1"]
+[![Clojars Project](http://clojars.org/io.mandoline/mandoline-sqlite/latest-version.svg)](http://clojars.org/io.mandoline/mandoline-sqlite)
