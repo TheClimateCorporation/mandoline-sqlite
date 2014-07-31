@@ -1,4 +1,4 @@
-(defproject io.mandoline/mandoline-sqlite "0.1.1"
+(defproject io.mandoline/mandoline-sqlite "0.1.2"
   :description "SQLite backend for Mandoline."
   :license {:name "Apache License, version 2.0"
             :url "http://www.apache.org/licenses/LICENSE-2.0"
@@ -26,7 +26,7 @@
      [org.clojure/core.incubator "0.1.3"]
      [joda-time/joda-time "2.1"]
      [commons-io/commons-io "2.4"]
-     [io.mandoline/mandoline-core "0.1.1"]]
+     [io.mandoline/mandoline-core "0.1.3"]]
   :exclusions [org.clojure/clojure]
 
   :profiles {
